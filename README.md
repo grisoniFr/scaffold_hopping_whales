@@ -33,5 +33,5 @@ Move to the [code](/code) folder, where the Jupyter notebook file is contained, 
 ``
 jupyter notebook
 ``
-Click on the notebook
+Click on the notebook file "virtual_screening_pipeline.jpynb". There, you will find additional information on the required calculation steps.
 
