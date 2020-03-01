@@ -1,4 +1,4 @@
-### Scaffold hopping by holistic molecular descriptors in drug design
+# Scaffold hopping by holistic molecular descriptors in drug design
 Francesca Grisoni,* Gisbert Schneider
 
 ETH Zurich, Department of Chemistry and Applied Biosciences, RETHINK, Vladimir-Prelog-Weg 4, 8093, Zurich, Switzerland.
@@ -23,8 +23,15 @@ The folder, named “scaffold_hopping”, will contain the following elements:
 •	data (folder), containing the virtual screening dataset provided for this example.
 
 ## Setting up the virtual environment
-Performing all the calculations within a virtual environment is recommended, to ensure that all the dependencies are properly installed, with no conflicts with previously installed Python packages. The set of necessary packages can be installed by creating the virtual environment with the provided “scaffold_hopping.yml” file:
+Performing all the calculations within a virtual environment is recommended. You can import the provided environment as follows:
+
+
+environment with the provided “scaffold_hopping.yml” file:
+``
 conda env create -f scaffold_hopping.yml
+``
+
+
 To use the installed packages, activate the environment:
 conda activate scaffold_hopping.yml
 
