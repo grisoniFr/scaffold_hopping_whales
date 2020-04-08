@@ -18,12 +18,12 @@ git clone https://github.com/grisoniFr/scaffold_hopping_whales
 A copy of the repository will be generated on your local machine, in the dedicated GitHub folder. Move to the donwloaded repository to start using it. 
 
 ## Setting up the virtual environment
-Performing all the calculations within a virtual environment is recommended. You can import the environment information (as provided in the “scaffold_hopping.yml” file) as follows:
-
+Performing all the calculations within a virtual environment is recommended. You can import the environment information (as provided in the “scaffold_hopping.yml” file) as follows:<div>
 ``
 conda env create -f scaffold_hopping.yml
 ``
-To use the installed packages, activate the environment:
+
+To use the installed packages, activate the environment:<div>
 ``
 conda activate scaffold_hopping
 ``
