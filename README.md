@@ -37,6 +37,7 @@ Click on the notebook file "virtual_screening_pipeline.jpynb". There, you will f
 
 ## How to cite
 If you use this code or parts thereof, please cite the following papers:
+
 ``
 @article{grisoni2018scaffold,
   title={Scaffold hopping from natural products to synthetic mimetics by holistic molecular similarity},
