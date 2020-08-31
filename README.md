@@ -38,5 +38,5 @@ Click on the notebook file "virtual_screening_pipeline.jpynb". There, you will f
 ## How to cite
 If you use this code or parts thereof, please cite the following papers:
 * Grisoni F, Merk D, Consonni V, Hiss J.A, Giani Tagliabue S, Todeschini R, Schneider G. "Scaffold hopping from natural products to synthetic mimetics by holistic molecular similarity". *Communications Chemistry* **2018**, 1, 1-9. https://www.nature.com/articles/s42004-018-0043-x
-* Grisoni F, Schneider G. *"Molecular scaffold hopping via holistic molecular representation"*, **2020**, *In:* Protein-Ligand Interactions and Drug Design (Eds: F. Ballante), Methods in Molecular Biology, Springer Nature (in press).
+* Grisoni F, Schneider G. *"Molecular scaffold hopping via holistic molecular representation"*, **2020**, *In:* Protein-Ligand Interactions and Drug Design (Eds: F. Ballante), Methods in Molecular Biology (in press).
 
