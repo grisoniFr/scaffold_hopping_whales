@@ -37,16 +37,5 @@ Click on the notebook file "virtual_screening_pipeline.jpynb". There, you will f
 
 ## How to cite
 If you use this code or parts thereof, please cite the following papers:
+* Grisoni F, Merk D, Consonni V, Hiss J.A, Giani Tagliabue S, Todeschini R, Schneider G. "Scaffold hopping from natural products to synthetic mimetics by holistic molecular similarity". *Communications Chemistry* **2018**, 1, 1-9.
 
-``
-@article{grisoni2018scaffold,
-  title={Scaffold hopping from natural products to synthetic mimetics by holistic molecular similarity},
-  author={Grisoni, Francesca and Merk, Daniel and Consonni, Viviana and Hiss, Jan A and Tagliabue, Sara Giani and Todeschini, Roberto and Schneider, Gisbert},
-  journal={Communications Chemistry},
-  volume={1},
-  number={1},
-  pages={1--9},
-  year={2018},
-  publisher={Nature Publishing Group}
-}
-``
