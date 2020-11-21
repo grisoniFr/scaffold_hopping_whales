@@ -1,9 +1,4 @@
 # Scaffold hopping by holistic molecular descriptors in drug design
-Francesca Grisoni,* Gisbert Schneider
-
-ETH Zurich, Department of Chemistry and Applied Biosciences, RETHINK, Vladimir-Prelog-Weg 4, 8093, Zurich, Switzerland.
-
-*Corresponding author: francesca.grisoni@pharma.ethz.ch 
 
 ## Preliminary steps
 In order to download and run the code, ensure you have the following software on your machine: <div>
