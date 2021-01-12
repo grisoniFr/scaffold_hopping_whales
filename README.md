@@ -9,8 +9,8 @@ In order to download and run the code, ensure you have the following software on
 Clone the repository, as follows:<div>
 ``
 git clone https://github.com/grisoniFr/scaffold_hopping_whales
-``
-A copy of the repository will be generated on your local machine, in the dedicated GitHub folder. Move to the donwloaded repository to start using it. 
+``<div>
+ A copy of the repository will be generated on your local machine, in the dedicated GitHub folder. Move to the donwloaded repository to start using it. 
 
 ## Setting up the virtual environment
 Performing all the calculations within a virtual environment is recommended. You can import the environment information (as provided in the “scaffold_hopping.yml” file) as follows:<div>
