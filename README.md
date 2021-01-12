@@ -6,7 +6,7 @@ In order to download and run the code, ensure you have the following software on
 *	Git: https://www.atlassian.com/git/tutorials/install-git. 
 
 ## Getting the code
-Clone the repository, as follows:
+Clone the repository, as follows:<div>
 ``
 git clone https://github.com/grisoniFr/scaffold_hopping_whales
 ``
